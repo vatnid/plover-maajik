@@ -17,9 +17,12 @@ Plover, including a system plugin and dictionaries.
 
 ## Installation
 
-1. Install the `plover-maajik` package through Plover's Plugins Manager.
-2. Restart Plover.
-3. Go to Configure > System, and change your system to `MaaJik`.
+1. Clone the repo onto your machine: `git clone https://github.com/vatnid/plover-maajik.git`
+2. Navigate to the repo directory: `cd plover-bulgarian`
+3. Run `plover -s plover_plugins install -e .` (remember the final dot!)
+4. Restart Plover.
+5. Go to `Configure > System`, and change your system to `MaaJik`.
+
 
 ## Usage
 
