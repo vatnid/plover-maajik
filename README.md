@@ -5,7 +5,7 @@
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/sammdot/plover-maajik/build)
 ![GitHub](https://img.shields.io/github/license/sammdot/plover-maajik)
 
-**Note: The information in this README may be inaccurate as this fork is different from the original repo.** 
+**WARNING: The information in this README may be inaccurate as this fork is different from the original repo.** 
 
 MaaJik /ma˥ jɪk̚˨/ (孖翼, "a pair of wings") is a work-in-progress Cantonese
 machine shorthand theory. This repository contains an implementation of it for
