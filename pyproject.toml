@@ -7,7 +7,7 @@ requires-python = ">= 3.7"
 license = { file = "LICENSE" }
 authors = [
   { name = "Sammi de Guzman", email = "sammi@sammdot.ca" },
-  { name = "Samuel Lo" },
+  { name = "Samuel Lo", email = "me@samuello.io" },
 ]
 keywords = [
   "plover",
