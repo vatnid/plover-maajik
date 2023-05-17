@@ -22,6 +22,7 @@ Plover, including a system plugin and dictionaries.
 3. Run `plover -s plover_plugins install -e .` (remember the final dot!)
 4. Restart Plover.
 5. Go to `Configure > System`, and change your system to `MaaJik`.
+6. You may need to add the default dictionaries manually.
 
 
 ## Usage
